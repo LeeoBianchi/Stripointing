@@ -1,7 +1,5 @@
   #ANNOTAZIONI:
 #-Lettere greche: angoli in rad, lettere latine: angoli in gradi
-#-Approssimazione accettabile: Sole e Luna non saranno quasi mai visibili assieme (eclissi) quindi
-#il tempo totale di osservazione da buttare è approx= tSole + tLuna
 #------------------------------------
 using Stripeline
 using AstroLib, Dates
