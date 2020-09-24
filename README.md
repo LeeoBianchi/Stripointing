@@ -3,7 +3,6 @@ Simulation of Sun, Moon and planets observation time during the LSPE/Strip micro
 
 **Simulation**:
 The function "Simulation" produces a .txt file for a celestial body and a horn in a certain time period specified by the user.
-Some .txt file can be found attached in zipped directories.
 
 **Getting the results**:
 This is divided in two parts:
