@@ -1,5 +1,5 @@
 # Stripointing
-Stripeline-based simulation of Sun, Moon and planets observation time during the LSPE/Strip microwave telescope activity.
+Simulation of Sun, Moon and planets observation time during the LSPE/Strip microwave telescope activity, based on the Stripeline.jl simulator (https://lspestrip.github.io/Stripeline.jl/latest/).
 
 **Simulation**:
 The function "Simulation" produces a .txt file for a celestial body and a horn in a certain time period specified by the user.
